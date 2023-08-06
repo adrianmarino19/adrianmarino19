@@ -1,7 +1,7 @@
 <h2 align="center">Hey!👋🏻 I'm Adrian Marino</h1>
 <h3 align="center">Welcome to my GitHub Profile!</h3>
 
-
+<br>
 
 ## About Me
 <div style="text-align: right; margin-top: down;">
@@ -16,6 +16,7 @@
 
 - 🧠 **Other Interests:** Sports, Chess, Dogs
 
+<br>
 
 <h3 align="left">Connect with Me!</h3>
 <p align="left">
@@ -25,6 +26,7 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left"> 
+    
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:20px"/></a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" style="margin-right:20px"/></a> 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" style="margin-right:20px"/></a> 
