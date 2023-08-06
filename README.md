@@ -24,8 +24,6 @@
 <a href="https://linkedin.com/in/adrian-marino" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:adrianmarino@alumni.ie.edu?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianmarino@alumni.ie.edu)
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left"> 
