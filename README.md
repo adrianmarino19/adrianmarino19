@@ -21,7 +21,7 @@
 <h3 align="left">Connect with Me!</h3>
 <p align="left">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adrian-marino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-marino/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianmarino@alumni.ie.edu)
 
 <h3 align="left">🛠️ Languages and Tools</h3>
