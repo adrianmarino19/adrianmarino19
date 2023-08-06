@@ -14,7 +14,7 @@
 
 - 💼 **Professional Experience:** Product Management Associate at [General Electric](https://www.gehealthcare.com/)
 
-- 🧠 **Other Interests:** Sports, Chess, Dogs
+- 🧠 **Other Interests:** Chess, Sports, Dogs
 
 <br>
 
