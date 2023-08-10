@@ -5,7 +5,7 @@
 
 ## 🚀 About Me:
 <div style="text-align: right; margin-top: down;">
-    <img align="right" alt="Coding Gif" width="450" src="https://media.tenor.com/ODlGpXglZL0AAAAd/bartsimpson.gif">
+    <img align="right" alt="Coding Gif" width="400" src="https://media.tenor.com/ODlGpXglZL0AAAAd/bartsimpson.gif">
 </div>
 
 - 🧐 **Areas of Interest**: AI & ML, Data Science, Consulting, Finance
