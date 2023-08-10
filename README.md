@@ -14,6 +14,8 @@
 
 - 💼 **Professional Experience:** Product Management Associate at [General Electric ](https://www.gehealthcare.com/) & Business Developer at [Swift Carbon ](https://swiftbicycles.com/)
 
+- 🌎 **Languages:** Native in English, Spanish, and Portuguese.
+
 - 🧠 **Other Interests:** Chess, Sports, Dogs
 
 <br>
