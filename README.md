@@ -3,7 +3,7 @@
 
 <br>
 
-## 🚀 About Me
+## 🚀 About Me:
 <div style="text-align: right; margin-top: down;">
     <img align="right" alt="Coding Gif" width="400" src="https://media.tenor.com/ODlGpXglZL0AAAAd/bartsimpson.gif">
 </div>
@@ -27,7 +27,7 @@
 <a href="mailto:adrianmarino@alumni.ie.edu?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left"> 
     
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:20px"/></a> 
