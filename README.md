@@ -3,7 +3,7 @@
 
 <br>
 
-## About Me
+## 🚀 About Me
 <div style="text-align: right; margin-top: down;">
     <img align="right" alt="Coding Gif" width="400" src="https://media.tenor.com/ODlGpXglZL0AAAAd/bartsimpson.gif">
 </div>
