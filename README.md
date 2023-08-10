@@ -10,9 +10,9 @@
 
 - 🧐 **Areas of Interest**: AI & ML, Data Science, Consulting, Finance
 
-- 📚 **Education:** MSc in Computer Science with specialization in AI, <br> MSc in Management 
+- 📚 **Education:** MSc in Computer Science with specialization in AI, MSc in Management 
 
-- 💼 **Professional Experience:** Product Management Associate at <br> [General Electric ](https://www.gehealthcare.com/) & Business Developer at [Swift Carbon ](https://swiftbicycles.com/)
+- 💼 **Professional Experience:** Product Management Associate at [General Electric ](https://www.gehealthcare.com/) & Business Developer at [Swift Carbon ](https://swiftbicycles.com/)
 
 - 🌎 **Languages:** Native in English, Spanish, and Portuguese.
 
