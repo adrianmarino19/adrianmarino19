@@ -20,14 +20,7 @@
 
 <br>
 
-<h3 align="left"> 🔗 Connect with Me!</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/adrian-marino" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:adrianmarino@alumni.ie.edu?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-
-<h3 align="left">🛠️ Tech Stack:</h3>
+<h2 align="left">🛠️ Tech Stack:</h2>
 <p align="left"> 
     
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:20px"/></a> 
@@ -48,3 +41,11 @@
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right:20px"/></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="margin-right:20px"/></a>
 </p>
+
+
+<h2 align="left"> 🔗 Connect with Me!</h2>
+<p align="left">
+
+<a href="https://linkedin.com/in/adrian-marino" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:adrianmarino@alumni.ie.edu?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
