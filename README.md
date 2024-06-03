@@ -8,7 +8,7 @@
     <img align="right" alt="Coding Gif" width="400" src="https://media.tenor.com/ODlGpXglZL0AAAAd/bartsimpson.gif">
 </div>
 
-- 🧐 **Areas of Interest**: AI & ML, Data Science, Consulting, Finance, Product Management
+- 🧐 **Areas of Interest**: AI & ML, Data Science, Product Management, and Consulting
 
 - 📚 **Education:** MSc in Computer Science with specialization in AI, MSc in Management 
 
