@@ -10,7 +10,7 @@
 
 - 🧐 **Areas of Interest**: AI & ML, Data Science, Product Management, and Consulting
 
-- 📚 **Education:** MSc in Computer Science with specialization in AI, MSc in Management 
+- 📚 **Education:** MSc in Computer Science with specialization in AI  
 
 - 💼 **Professional Experience:** Associate Product Manager at [General Electric ](https://www.gehealthcare.com/) & Business Developer at [Swift Carbon ](https://swiftbicycles.com/)
 
