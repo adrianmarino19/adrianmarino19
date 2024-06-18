@@ -8,7 +8,7 @@
     <img align="right" alt="Coding Gif" width="400" src="https://media.tenor.com/ODlGpXglZL0AAAAd/bartsimpson.gif">
 </div>
 
-- 🧐 **Areas of Interest**: AI & ML, Data Science, Product Management, and Consulting
+- 🧐 **Areas of Interest**: Data Science & Product Management
 
 - 📚 **Education:** MSc in Computer Science at [IE University](https://www.linkedin.com/school/iescitech/) & Data Science bootcamp at [Le Wagon](https://www.linkedin.com/school/le-wagon/)
 
@@ -16,7 +16,7 @@
 
 - 🌎 **Languages:** Native in English, Spanish, and Portuguese.
 
-- 🧠 **Other Interests:** Chess, Sports, Dogs
+- 🧠 **Other Interests:** Chess, Football, Dogs
 
 <br>
 
