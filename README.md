@@ -8,7 +8,7 @@
     <img align="right" alt="Coding Gif" width="400" src="https://media.tenor.com/ODlGpXglZL0AAAAd/bartsimpson.gif">
 </div>
 
-- 🧐 **Areas of Interest**: Data Science & Product Management
+- 🧐 **Areas of Interest**: Data Science & Analytics
 
 - 📚 **Education:** MSc in Computer Science at [IE University](https://www.linkedin.com/school/iescitech/) & Data Science bootcamp at [Le Wagon](https://www.linkedin.com/school/le-wagon/)
 
