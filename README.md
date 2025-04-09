@@ -12,7 +12,7 @@
 
 - 📚 **Education:** MSc in Computer Science at [IE University](https://www.linkedin.com/school/iescitech/) & Data Science bootcamp at [Le Wagon](https://www.linkedin.com/school/le-wagon/)
 
-- 💼 **Professional Experience:** Solutions Engineer at [Captana](https://captana.vusion.com/) & Product Manager at [General Electric ](https://www.gehealthcare.com/)
+- 💼 **Professional Experience:** Solutions Engineer at [Captana](https://captana.vusion.com/) & Ex-Product Manager at [General Electric ](https://www.gehealthcare.com/)
 
 - 🌎 **Languages:** Native in English, Spanish, and Portuguese.
 
