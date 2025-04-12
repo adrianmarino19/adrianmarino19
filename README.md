@@ -48,12 +48,3 @@
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-154f5a?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-<h2 align="left"> 🔗 Connect with Me!</h2>
-<p align="left">
-
-<a href="https://linkedin.com/in/adrian-marino" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:adrianmarino@alumni.ie.edu?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
