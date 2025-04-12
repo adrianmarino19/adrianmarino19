@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Adrian Marino </h1>
+<h2 align="center">Hey, I'm Adrian Marino! </h1>
 
 <br>
 
