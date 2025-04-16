@@ -1,24 +1,3 @@
-<h2 align="center">Hey, I'm Adrian Marino! </h1>
-
-<br>
-
-## 🚀 About Me:
-<div style="text-align: right; margin-top: down;">
-    <img align="right" alt="Coding Gif" width="400" src="https://media.tenor.com/ODlGpXglZL0AAAAd/bartsimpson.gif">
-</div>
-
-- 🧐 **Areas of Interest**: Data Science & Analytics
-
-- 📚 **Education:** MSc in Computer Science at [IE University](https://www.linkedin.com/school/iescitech/) & Data Science bootcamp at [Le Wagon](https://www.linkedin.com/school/le-wagon/)
-
-- 💼 **Professional Experience:** Solutions Engineer at [Captana](https://captana.vusion.com/) & Ex-Product Manager at [General Electric ](https://www.gehealthcare.com/)
-
-- 🌎 **Languages:** Native in English, Spanish, and Portuguese.
-
-- 🧠 **Other Interests:** Chess, Football, Dogs
-
-<br>
-
 <h2 align="left">🛠️ Tech Stack:</h2>
 <p align="left"> 
 
