@@ -21,7 +21,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
-<h2 align="left">📖 Libraries:</h2>
+<h2 align="left">Libraries:</h2>
 <p align="left"> 
 
 
