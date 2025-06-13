@@ -4,7 +4,8 @@
 - 🛠️ Now building [Skill Finder](https://github.com/adrianmarino19/skill_finder), bringing transparency to the job market by analyzing LinkedIn job data!
 - 🏀 Previously tried to create an NBA Finals predictions... purely for data science, <u><i><b>not</b></i></u>
  gambling… probably. 😎
-- 🏆 Just got Second Place in Madrid's 2025 DataFest  — obsessed with datathons. Need a teammate? Ping me!
+- 🏆 Just got Second Place in Madrid's 2025 DataFest  — obsessed with datathons.
+  - Need a teammate? Ping me!
 
 
 <h2 align="left">Tech Stack & Frameworks:</h2>
