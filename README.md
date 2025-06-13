@@ -1,4 +1,4 @@
-### Bom dia! Welcome, I am Adrian Marino.
+### Bom dia! I am Adrian Marino, welcome to my profile.
 
 🛠️ Now building [Skill Finder](https://github.com/adrianmarino19/skill_finder) — extracting skills from job descriptions.  
 
