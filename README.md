@@ -1,14 +1,13 @@
-### Bom dia! I am Adrian Marino, welcome to my profile.
+<h2 align="left">Bom dia! I am Adrian Marino, welcome to my profile.</h2>
 
-
-- 🛠️ Now building [Skill Finder](https://skillfinder.streamlit.app/), bringing transparency to the job market by analyzing LinkedIn job data!
+- 🔨 Now building [Skill Finder](https://skillfinder.streamlit.app/), bringing transparency to the job market by analyzing LinkedIn job data!
 - 🏀 Previously tried to create an NBA Finals predictions... purely for data science, <b><i><ins>not</ins></i></b>
  gambling… probably. 😎
 - 🏆 Just got Second Place in Madrid's 2025 DataFest  — obsessed with datathons.
   - Need a teammate? Ping me!
 
-
-<h2 align="left">Tech Stack & Frameworks:</h2>
+<br></br>
+<h2 align="left">🛠️ Tech Stack & Frameworks:</h2>
 <p align="left"> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +20,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
-<h2 align="left">Libraries:</h2>
+<h2 align="left">📚 Libraries:</h2>
 <p align="left"> 
 
 
