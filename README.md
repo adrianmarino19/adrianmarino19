@@ -5,7 +5,6 @@
  gambling… probably. 😎
 - 🏆 Just got Second Place in Madrid's 2025 DataFest  — obsessed with datathons.
   - Need a teammate? Ping me!
-
 <br></br>
 <h2 align="left">🛠️ Tech Stack & Frameworks:</h2>
 <p align="left"> 
