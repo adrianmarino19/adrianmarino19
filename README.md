@@ -1,5 +1,7 @@
 🛠️ Now building [Skill Finder](https://github.com/adrianmarino19/skill_finder) — extracting skills from job descriptions.  
+
 🏀 Previously tried NBA Finals predictions... purely for data science, *not* gambling… probably. 😎
+
 🏆 Just got Second Place in Madrid's 2025 DataFest  — obsessed with datathons. Need a teammate? Ping me!
 
 
