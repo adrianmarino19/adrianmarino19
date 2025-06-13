@@ -8,7 +8,7 @@
 
 
 
-<h2 align="left">🛠️ Tech Stack & Frameworks:</h2>
+<h2 align="left">Tech Stack & Frameworks:</h2>
 <p align="left"> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
