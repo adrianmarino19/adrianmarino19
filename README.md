@@ -1,7 +1,7 @@
 <h2 align="left">Bom dia! I am Adrian Marino, welcome to my profile.</h2>
 
 - 🔨 Now building [Skill Finder](https://skillfinder.streamlit.app/), bringing transparency to the job market by analyzing LinkedIn job data!
-- 🏀 Previously tried to create an NBA Finals predictions... purely for data science, <b><i><ins>not</ins></i></b>
+- 🏀 Previously tried to create an NBA game predictor... purely for data science, <b><i><ins>not</ins></i></b>
  gambling… probably. 😎
 - 🏆 Just got Second Place in Madrid's 2025 DataFest  — obsessed with datathons.
   - Need a teammate? Ping me!
