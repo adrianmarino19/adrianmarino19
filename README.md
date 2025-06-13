@@ -6,6 +6,8 @@ Bom dia! Welcome, I am Adrian Marino.
 
 🏆 Just got Second Place in Madrid's 2025 DataFest  — obsessed with datathons. Need a teammate? Ping me!
 
+
+
 <h2 align="left">🛠️ Tech Stack & Frameworks:</h2>
 <p align="left"> 
 
