@@ -1,4 +1,4 @@
-<h2 align="left">Bom dia! I am Adrian Marino, welcome to my profile.</h2>
+<h2 align="left">Hello! I am Adrian Marino, welcome!</h2>
 
 - 🔨 Now building [Skill Finder](https://skillfinder.streamlit.app/), bringing transparency to the job market by analyzing LinkedIn job data!
 - 🏆 Just got Second Place in Spain's 2025 DataFest, hosted by Santander Bank. Currently obsessed with datathons.
