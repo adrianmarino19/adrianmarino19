@@ -1,7 +1,7 @@
 <h2 align="left">Hello! I am Adrian Marino, welcome!</h2>
 
 - 🔨 Now building [Skill Finder](https://skillfinder.streamlit.app/), bringing transparency to the job market by analyzing LinkedIn job data!
-- 🏆 Just got Second Place in Spain's 2025 DataFest, hosted by Santander Bank. Obsessed with datathons.
+- 🏆 Just got Second Place in Spain's 2025 DataFest, hosted by Santander Bank. Obsessed with datathons.1
   - Need a teammate? Ping me!
 <br></br>
 <h2 align="left">🛠️ Tech Stack & Frameworks:</h2>
