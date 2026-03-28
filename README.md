@@ -1,6 +1,6 @@
 ## Hello! I am Adrian Marino, welcome.
 
-- Currently working on the **Transparency Agent**, a RAG pipeline for navigating large volumes of declassified government documents and court records, particular interest in the **Epstein Files**.
+- Currently working on the **Transparency Agent**, a RAG pipeline for navigating large volumes of declassified government documents and court records, particularly interested in the **Epstein Files**.
 - 🏆 Just got Second Place in Spain's 2025 DataFest, hosted by Santander Bank. Obsessed with datathons.
   - Need a teammate? Ping me!
 
