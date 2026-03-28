@@ -1,24 +1,23 @@
-<h2 align="left">Hello! I am Adrian Marino, welcome!</h2>
-- Currently working on the Transparency Agent, a RAG pipeline for navigating large volumes of declassified government documents and court records, particular interest in the Epstein Files.
--  🏆 Just got Second Place in Spain's 2025 DataFest, hosted by Santander Bank. Obsessed with datathons.
+## Hello! I am Adrian Marino, welcome.
+
+- Currently working on the **Transparency Agent**, a RAG pipeline for navigating large volumes of declassified government documents and court records, particular interest in the **Epstein Files**.
+- 🏆 Just got Second Place in Spain's 2025 DataFest, hosted by Santander Bank. Obsessed with datathons.
   - Need a teammate? Ping me!
-<br></br>
-<h2 align="left">🛠️ Tech Stack & Frameworks:</h2>
-<p align="left"> 
+
+---
+
+## 🛠️ Tech Stack & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-
-<h2 align="left">📚 Libraries:</h2>
-<p align="left"> 
-
+## 📚 Libraries
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
